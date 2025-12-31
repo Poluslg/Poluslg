@@ -1,5 +1,14 @@
-# 💫 About Me:
-🛠️ I’m currently working on<br><br>Building production-ready frontend applications using React, Next.js, Tailwind CSS, and modern UI patterns — focused on performance, UX, and real user flows.<br><br>🤝 I’m looking to collaborate on<br><br>Frontend-focused projects, dashboards, SaaS products, and web apps where clean UI, state management, and real UX matter.<br><br>🧠 I’m looking for help with<br><br>Advanced frontend architecture, performance optimization, and writing maintainable React code at scale.<br><br>🌱 I’m currently learning<br><br>Deep React patterns, Next.js App Router, frontend performance, accessibility, and better UI state handling.<br><br>💬 Ask me about<br><br>React, Next.js, Tailwind, form handling, UI components, frontend architecture, and turning designs into usable products.<br><br>⚡ Fun fact<br><br>I care more about usability and performance than fancy animations — if users struggle, the UI has failed.
+### 💫 About Me
+
+I'm a frontend engineer focused on **performance**, **UX**, and **real user flows**.
+
+- 🛠️ **Currently working on:** Building production-ready frontend applications using **React**, **Next.js**, and **Tailwind CSS**.
+- 🤝 **Looking to collaborate on:** Frontend-focused projects, dashboards, SaaS products, and web apps where clean UI and state management matter.
+- 🧠 **Looking for help with:** Advanced frontend architecture, performance optimization, and writing maintainable React code at scale.
+- 🌱 **Currently learning:** Deep React patterns, Next.js App Router, accessibility (a11y), and better UI state handling.
+- 💬 **Ask me about:** React, Next.js, Tailwind, form handling, and turning designs into usable products.
+
+> ⚡ **Fun fact:** I care more about usability and performance than fancy animations — if users struggle, the UI has failed.
 
 
 ## 🌐 Socials:
